@@ -1,0 +1,27 @@
+{
+  "name": "create-extention",
+  "version": "1.0.0",
+  "description": "Create the base of the extension with the command.",
+  "type": "module",
+  "exports": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EveSquare/create-extention.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EveSquare/create-extention/issues"
+  },
+  "homepage": "https://github.com/EveSquare/create-extention#readme",
+  "bin": {
+    "create-extention": "bin/create-extention.js"
+  },
+  "devDependencies": {
+    "chalk": "^5.0.1"
+  }
+}
