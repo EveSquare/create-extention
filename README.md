@@ -15,5 +15,5 @@ npx create-extension my-extention
 
 ### Links
 
-[Chrome Extension Docs](https://developer.chrome.com/docs/extensions/)
-[FireFox Extension Docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons)
+[Chrome-extension-docs](https://developer.chrome.com/docs/extensions/)
+[FireFox-extension-docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons)
