@@ -1,9 +1,12 @@
 # create-extention
 > Create the base of the extension with the command.
-<!-- ## Usage
+> Development can begin immediately.
+## Usage
 ```
 npx create-extension my-extention
-``` -->
+```
+
+> 🌈 create extention!
 
 ### Default Icons
 <p>
@@ -12,6 +15,13 @@ npx create-extension my-extention
 <img height="32" src="https://raw.githubusercontent.com/EveSquare/create-extention/main/assets/images/icon_32.png">
 <img height="16" src="https://raw.githubusercontent.com/EveSquare/create-extention/main/assets/images/icon_16.png">
 </p>
+
+### Scheduled to be implemented
+- [ ] FireFox Support
+- [ ] Microsoft Edge Support
+- [ ] Safari Support
+- [ ] Brave Support
+- [ ] Opera Support
 
 ### Links
 
