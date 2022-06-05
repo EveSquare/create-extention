@@ -17,6 +17,7 @@ npx create-extension my-extention
 </p>
 
 ### Scheduled to be implemented
+- [x] Chrome Support
 - [ ] FireFox Support
 - [ ] Microsoft Edge Support
 - [ ] Safari Support
