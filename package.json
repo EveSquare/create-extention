@@ -1,5 +1,8 @@
 {
   "name": "create-extention",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.0.0",
   "description": "Create the base of the extension with the command.",
   "type": "module",
