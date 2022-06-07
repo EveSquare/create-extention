@@ -14,9 +14,13 @@
     "type": "git",
     "url": "git+https://github.com/EveSquare/create-extention.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "create",
+    "extention",
+    "chrome"
+  ],
+  "author": "EveSquare",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EveSquare/create-extention/issues"
   },
