@@ -1,5 +1,5 @@
 # create-extention
-> Create the base of the extension with the command.
+> Create the base of the extension with the command.<br>
 > Development can begin immediately.
 ## Usage
 ```
@@ -26,5 +26,5 @@ npx create-extension my-extention
 
 ### Links
 
-[Chrome-extension-docs](https://developer.chrome.com/docs/extensions/)
+[Chrome-extension-docs](https://developer.chrome.com/docs/extensions/)<br>
 [FireFox-extension-docs](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons)
